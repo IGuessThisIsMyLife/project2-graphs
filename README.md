@@ -1,5 +1,7 @@
 # Project 2 - Graphs
 <pre>
+Questions 1 - 2
+
 1.a.)
 S -> A -> C, B, E -> F -> G -> K -> L -> D
 
