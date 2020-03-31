@@ -62,9 +62,10 @@ class GraphSearch:
 
     def DFSRec(self, start, end, graph):
         """Recursively returns an ArrayList of the nodes in the graph in a valid DFS order"""
-        visited = [False] * len(graph.nodes)
-
-        DFSRecHelper(start, graph, visited)
+        pass
+##        visited = [False] * len(graph.nodes)
+##
+##        DFSRecHelper(start, graph, visited)
 
     def DFSRecHelper(start, graph, visited):
         """"""
