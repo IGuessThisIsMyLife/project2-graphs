@@ -54,6 +54,13 @@ S - 16 - 17 - 18 - 19 - 20
         2                       23
                                   \
                                     D
+
+
+3.h.i.)
+The issue that would be ran into would be the implicit space growing too large for a computer to handle since it's O(n) implicit space.
+
+i.)
+This won't have the same issue of implicit space since it's not recursive.
 </pre>
 
 
