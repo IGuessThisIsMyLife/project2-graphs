@@ -61,6 +61,14 @@ The issue that would be ran into would be the implicit space growing too large f
 
 i.)
 This won't have the same issue of implicit space since it's not recursive.
+
+4.a.) Properties of a Directed Acyclic Graph:
+i.) Contains no cycles
+ii.) Nodes have edges towards a node greater than itself
+
+5.a.) Because the edges have weights, Dijkstra’s algorithm can be used to derive a shortest path. Also, because it’s complete, there are no disconnected nodes so every node can be reached.
+
+6.c.) The best path will either consist of moving to the right or up because the end point is in the opposite corner, thus those are the only directions I need to examine when pathfinding.
 </pre>
 
 
